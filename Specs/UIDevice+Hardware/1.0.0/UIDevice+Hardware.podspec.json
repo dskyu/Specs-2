@@ -1,0 +1,19 @@
+{
+  "name": "UIDevice+Hardware",
+  "version": "1.0.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://github.com/dskyu/UIDevice-Hardware",
+  "authors": {
+    "Dskyu": "dskyu2004@gmail.com"
+  },
+  "summary": "This category helps to check the hardware version of the device in iOS.",
+  "source": {
+    "git": "https://github.com/dskyu/UIDevice-Hardware.git"
+  },
+  "source_files": "*.{h,m}",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}
